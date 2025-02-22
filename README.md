@@ -1,1 +1,1 @@
-# HealthCare-Patient-Data-Analytcis
+# HealthCare-Patient-Data-Analytics
